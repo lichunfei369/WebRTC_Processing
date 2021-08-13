@@ -1,0 +1,47 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebRtcAudioTest/WebRtcAudioTest.cpp">
+    <Files>
+      <File FileName="WebRtcAudioTest/WebRtcAudioTest.cpp" Line="2" Column="3" />
+      <File FileName="webrtc/modules/audio_processing/aec/aec_resampler.c" />
+      <File FileName="webrtc/modules/audio_processing/aecm/aecm_core.c" />
+      <File FileName="webrtc/modules/audio_processing/aecm/aecm_core.h" />
+      <File FileName="webrtc/modules/audio_processing/aecm/aecm_core_c.c" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebRtcAudioTest" expanded="True">
+            <Node name="audio_processing" expanded="True">
+              <Node name="audio_processing" expanded="True">
+                <Node name="aecm" expanded="True" />
+                <Node name="agc" expanded="True">
+                  <Node name="include" expanded="True" />
+                </Node>
+                <Node name="ns" expanded="True">
+                  <Node name="include" expanded="True" />
+                </Node>
+                <Node name="utility" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="common_audio" expanded="True">
+              <Node name="resampler" expanded="True">
+                <Node name="include" expanded="True" />
+              </Node>
+              <Node name="signal_processing" expanded="True">
+                <Node name="resample_fractional.c" selected="True" />
+              </Node>
+            </Node>
+            <Node name="system_wrappers" expanded="True" />
+            <Node name="WebRtcAudioTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
